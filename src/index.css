@@ -1,6 +1,5 @@
-@import "tailwindcss";
-
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Share+Tech+Mono&display=swap');
+@import "tailwindcss";
 
 @theme {
   --font-bebas: 'Bebas Neue', 'sans-serif';
